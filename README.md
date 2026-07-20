@@ -59,10 +59,5 @@ I create everything from game modifications to full-stack web applications.
 # GitHub Statistics
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=VilzuX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VilzuX&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000"/>
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=VilzuX&theme=tokyonight&hide_border=true&background=000000"/>
 </p>
